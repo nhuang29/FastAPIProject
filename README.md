@@ -94,3 +94,7 @@ UWSGI as well as NGINX for a hybrid architecture.**
 
 **7. Quicker Testing: I had the initial plan of wrapping the application in a docker container to make it 
 easier to run for testers, but I ran out of time.**
+
+**8. Unit Testing: I had no definitive unit tests, and everything I did was behavior driven.**
+
+**9. Auto updating on the list for the UI: This would auto update when a lead is "reached out" to.** 
